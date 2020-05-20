@@ -1,6 +1,6 @@
 
-var dev_base_data_url = 'https://raw.githubusercontent.com/mlco2/impact/master/data/';
-var prod_base_data_url = 'https://raw.githubusercontent.com/mlco2/impact/master/data/';
+var dev_base_data_url = 'https://raw.githubusercontent.com/shivangidas/impact/master/data/';
+var prod_base_data_url = 'https://raw.githubusercontent.com/shivangidas/impact/master/data/';
 var serveFrom = "dev"
 
 const parseProvidersData = data => {
